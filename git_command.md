@@ -14,6 +14,14 @@
 
 
 
+<b>Set local git user and enail</b>
+
+*git config user.name "vaibhavrg2@gmail.com"*
+
+*git config user.email "vaibhavrgurav"*
+
+
+
 **Initialize Git in Local Folder**
 
 <i>git init</i>
@@ -49,6 +57,10 @@
 <b>Push to Remote Branch</b>
 
 *git push -u origin my-branch-name*
+
+
+
+
 
 
 
